@@ -1,14 +1,14 @@
 ```diff
-+┌─ ⋅ ✧ ⋅ ───────────────────────────────────────────────────── ⋅ ✧ ⋅ ─┐
-+
-+██╗     ███████╗ █████╗ ██████╗ ███████╗██████╗ ███████╗██████╗ ██╗   ██╗███╗   ██╗██╗  ██╗
-+██║     ██╔════╝██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝██╔══██╗██║   ██║████╗  ██║██║ ██╔╝
-+██║     █████╗  ███████║██║  ██║█████╗  ██║  ██║███████╗██████╔╝██║   ██║██╔██╗ ██║█████╔╝ 
-+██║     ██╔══╝  ██╔══██║██║  ██║██╔══╝  ██║  ██║╚════██║██╔═══╝ ██║   ██║██║╚██╗██║██╔═██╗ 
-+███████╗███████╗██║  ██║██████╔╝███████╗██████╔╝███████║██║     ╚██████╔╝██║ ╚████║██║  ██╗
-+╚══════╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═════╝ ╚══════╝╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
-+
-+└─ // CyberSecurity Professional ───────────────────────────────────────┘
+┌─ ⋅ ✧ ⋅ ───────────────────────────────────────────────────── ⋅ ✧ ⋅ ─┐
+
+██╗     ███████╗ █████╗ ██████╗ ███████╗██████╗ ███████╗██████╗ ██╗   ██╗███╗   ██╗██╗  ██╗
+██║     ██╔════╝██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝██╔══██╗██║   ██║████╗  ██║██║ ██╔╝
+██║     █████╗  ███████║██║  ██║█████╗  ██║  ██║███████╗██████╔╝██║   ██║██╔██╗ ██║█████╔╝ 
+██║     ██╔══╝  ██╔══██║██║  ██║██╔══╝  ██║  ██║╚════██║██╔═══╝ ██║   ██║██║╚██╗██║██╔═██╗ 
+███████╗███████╗██║  ██║██████╔╝███████╗██████╔╝███████║██║     ╚██████╔╝██║ ╚████║██║  ██╗
+╚══════╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═════╝ ╚══════╝╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
+
+└─ // CyberSecurity Professional ───────────────────────────────────────┘
 ```
 
 <div align="center">
@@ -20,36 +20,33 @@
 ## ⌁ whoami
 
 ```diff
-+┌─[ leadedspunk@secops ]──[ ~/.profile ]
-+└──$ whoami
-+
-+   CyberSecurity Professional — I live in the logs.
-+   Blue-team instincts, red-team curiosity.
-+
-+   ▸ Detection engineering · threat hunting · DFIR
-+   ▸ Incident response when the pager screams
-+   ▸ Threat intelligence  →  actionable defense
-+   ▸ Security automation so humans do the thinking
-+   ▸ Rust & Python  ·  Linux & Windows native
-+
-+[ uptime ]  caffeine.service — active (running)
+┌─[ leadedspunk@secops ]──[ ~/.profile ]
+└──$ whoami
+
+   CyberSecurity Professional — Blue Team & Red Team.
+
+   ▸ Detection Engineering · Threat Hunting · DFIR
+   ▸ Incident Respose · Investigation · Analysis
+   ▸ Threat intelligence · Actionable
+   ▸ Security Automation
+   ▸ Rust & Python · Linux & Windows
+
 ```
 
 ## ⌁ arsenal
 
 **lang ▸**
 &nbsp;
-![Rust](https://img.shields.io/badge/Rust-137A55?style=flat-square&logo=rust&logoColor=dffaee)
-![Python](https://img.shields.io/badge/Python-137A55?style=flat-square&logo=python&logoColor=dffaee)
+![Rust](https://img.shields.io/badge/Rust-137A55?style=flat-square&logo=rust)
+![Python](https://img.shields.io/badge/Python-137A55?style=flat-square&logo=python)
 
 **stack ▸**
 &nbsp;
-![Fortinet](https://img.shields.io/badge/Fortinet-0F5E43?style=flat-square&logo=fortinet&logoColor=cdeede)
-![SentinelOne](https://img.shields.io/badge/SentinelOne-0F5E43?style=flat-square&logo=sentinelone&logoColor=cdeede)
-![OpenCTI](https://img.shields.io/badge/SentinelOne-0F5E43?style=flat-square&logo=opencti&logoColor=cdeede)
-![Elastic / ELK](https://img.shields.io/badge/Elastic%20%2F%20ELK-0F5E43?style=flat-square&logo=elasticstack&logoColor=cdeede)
-![n8n](https://img.shields.io/badge/n8n-0F5E43?style=flat-square&logo=n8n&logoColor=cdeede)
-![Firewalls](https://img.shields.io/badge/Firewalls-0F5E43?style=flat-square&logo=fireship&logoColor=cdeede)
+![Fortinet](https://img.shields.io/badge/Fortinet-0F5E43?style=flat-square&logo=fortinet)
+![SentinelOne](https://img.shields.io/badge/SentinelOne-0F5E43?style=flat-square&logo=sentinelone)
+![OpenCTI](https://img.shields.io/badge/OpenCTI-0F5E43?style=flat-square&logo=opencti)
+![Elastic / ELK](https://img.shields.io/badge/Elastic%20%2F%20ELK-0F5E43?style=flat-square&logo=elastic)
+![n8n](https://img.shields.io/badge/n8n-0F5E43?style=flat-square&logo=n8n)
 
 **ops ▸**
 &nbsp;
@@ -62,8 +59,8 @@
 
 **os ▸**
 &nbsp;
-![Linux](https://img.shields.io/badge/Linux-0F5E43?style=flat-square&logo=linux&logoColor=cdeede)
-![Windows](https://img.shields.io/badge/Windows-0F5E43?style=flat-square&logo=windows&logoColor=cdeede)
+![Linux](https://img.shields.io/badge/Linux-0F5E43?style=flat-square&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-0F5E43?style=flat-square&logo=windows)
 
 **certs ▸**
 &nbsp;
@@ -75,11 +72,11 @@
 
 <div align="center">
 
-`[ TRANSMISSIONS ]`
+[ CONTACT ]
 
 [![Website](https://img.shields.io/badge/↗%20leadedspunk.net-0D2820?style=flat-square&labelColor=0D2820&color=1f6f4e)](https://leadedspunk.net)
-[![X](https://img.shields.io/badge/𝕏%20@leadedspunk-0D2820?style=flat-square&labelColor=0D2820&color=1f6f4e)](https://x.com/leadedspunk)
-[![Bluesky](https://img.shields.io/badge/⌖%20bsky%20@leadedspunk-0D2820?style=flat-square&labelColor=0D2820&color=1f6f4e)](https://bsky.app/profile/leadedspunk.bsky.social)
+[![X](https://img.shields.io/badge/𝕏%20@leadedspunk-0D2820?style=flat-square&labelColor=0D2820&color=1f6f4e&logo=X)](https://x.com/leadedspunk)
+[![Bluesky](https://img.shields.io/badge/⌖%20bsky%20@leadedspunk-0D2820?style=flat-square&labelColor=0D2820&color=1f6f4e&logo=bluesky)](https://bsky.app/profile/leadedspunk)
 
 ⋅ ✧ ⋅&nbsp;&nbsp;EOF&nbsp;&nbsp;⋅ ✧ ⋅
 
